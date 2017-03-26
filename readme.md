@@ -29,28 +29,27 @@
 
 * If the post is written describing actions that occurred in the past, it's reasonable that they should be written up in the past tense.
 
-* Sometimes, people like to tell a narrative in the present tense.  If you try to do this, stay consistent.  
+* Sometimes, writers like to tell a narrative in the present tense.  If you try to do this, stay consistent.  
 
 ## Genders
 
-* There is no singular gender-neutral pronoun in English that refers to people.  This sucks.  
+* There is no singular, gender-neutral pronoun in English that refers to people.  This sucks.  
     * If you can find out the hacker's preferred gender, don't be afraid to use it.
     * "He or she" is acceptable, but sounds stilted. 
     * Using the hacker's name can help: "[Pat] flashed the firmware".
     * If you're really stumped, you can re-construct the sentence in the passive voice.  "The firmware was flashed."  It's not as nice as the active version, but it's probably the lesser of two evils.  
     * "They" is plural.  (Anyone want to talk about this? I'd be stoked to change my mind. It would be handy, because the hacker's gender is often irrelevant, and it's just a hassle.)
 
-* If there's any question, go with the gender that the hacker identifies him or herself as.  They get to choose, not you.  
+* Go with the gender that the hacker identifies him or herself as.  He or she gets to choose, not you.  
 
 ## Punctuation, and its (Ab)uses
 
 * Commas come in the sentence where you would take a breath or pause for a beat. 
 
-    * They separate independent clauses: "She's smart, and she wields a mean soldering iron." 
-
-    * They separate list elements: "butter, flour, and milk"  Hackaday style is to use the [serial comma](https://en.wikipedia.org/wiki/Serial_comma) -- the one just before the "and" -- in lists.  
-
-    * They offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
+    * Commas separate independent clauses: "She's smart, and she wields a mean soldering iron." 
+    * Commas separate list elements: "butter, flour, and milk".  
+    * Hackaday style is to use the [serial comma](https://en.wikipedia.org/wiki/Serial_comma) -- the one just before the "and" -- in lists.  The best justification I've ever seen for this is the sentence "I love my parents, Lady Gaga and Humpty Dumpty".  
+    * Commas offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
 
 * The hyphen (single dash) makes a single unit out of two or more words, when the compound word modifies another and it's needed for clarity. It's like parentheses in math, but for language. 
     * "his awesome 3D-printing skills".  "3D-printing" modifies skills, but it's two words, and you could be confused if he had awesome, 3D, (printing skills).  A "flat-bed truck" is not a flat (bed truck).
