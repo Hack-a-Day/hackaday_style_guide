@@ -7,15 +7,14 @@
 
     * We make an exception for personal opinion pieces and rants.  This is a fine line.  Err on the side of "we" for blog posts.
 
-* Hacker names, pseudonyms, and handles are enclosed in square brackets.  This was originally intended to disambiguate "that nerdy hacker" from "[that nerdy hacker]". 
-
-    * It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
+* Hacker names, pseudonyms, and handles are enclosed in square brackets.  This was originally intended to disambiguate "that nerdy hacker" from "[that nerdy hacker]".  It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
 
 * Attribution: We do it whenever possible.  If you read about something 
 
 * Tipsters: We thank them.  
 
-## Punctuation, and its Uses
+## Punctuation, and its (Ab)uses
+
 
 * Commas come in the sentence where you would take a breath or pause for a beat. 
 
@@ -25,8 +24,16 @@
 
     * They offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
 
-* Parentheses.  Ugh.  When you have something to say that doesn't fit in the flow of the sentence, it's best to split your sentence in two and re-write the parenthetical part so that it doesn't interfere with the flow anymore.  Entire parenthetical sentences, that don't fit in the flow of the paragraph, are marginally acceptable, but please exercise restraint.  The logical flow of the article is paramount.  Parentheses are a crutch.
+* The em-dash (double-dash) is an informal substitute for the parenthetical comma above.  It maybe should be used in cases that are just slightly more parenthetical.  
 
+* Parentheses.  Ugh.  In a sentence, they're for parenthetical remarks that are even less related to the topic at hand than those offset with commas.  In practice, when you have something to say that doesn't fit in the flow of the sentence, it's best to split your sentence in two and re-write the parenthetical part so that it doesn't interfere with the flow anymore.  Entire parenthetical sentences, that don't fit in the flow of the paragraph, are marginally acceptable, but please exercise restraint.  The logical flow of the article is paramount.  Parentheses are a crutch.
+
+* Semicolons separate two complete sentences that nonetheless are part of a unitary whole.  They're a strange beast, but useful when you need them.  "I'd like a wheat beer; my dog will have the IPA."  Unlike the period, the second sentence is not capitalized. 
+
+
+* Regular colons precede: lists, descriptions, definitions, and explanations.  I can't tell you why: it simply is that way.  
+
+* Ellipses.  You probably don't need 'em.
 
 ## Hackaday Specific Layout Trivia
 
