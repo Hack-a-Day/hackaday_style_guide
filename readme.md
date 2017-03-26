@@ -5,11 +5,11 @@
 
 * Voice: We write in the first-person plural.  We are Hackaday!  
 
-** We make an exception for personal opinion pieces and rants.  This is a fine line.  Err on the side of "we" for blog posts.
+    * We make an exception for personal opinion pieces and rants.  This is a fine line.  Err on the side of "we" for blog posts.
 
 * Hacker names, pseudonyms, and handles are enclosed in square brackets.  This was originally intended to disambiguate "that nerdy hacker" from "[that nerdy hacker]". 
 
-** It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
+    * It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
 
 * Attribution: We do it whenever possible.  If you read about something 
 
@@ -19,11 +19,11 @@
 
 * Commas come in the sentence where you would take a breath or pause for a beat. 
 
-** They separate independent clauses: "She's smart, and she wields a mean soldering iron." 
+    * They separate independent clauses: "She's smart, and she wields a mean soldering iron." 
 
-** They separate list elements: "butter, flour, and milk"  Hackaday style is to use the [serial comma](https://en.wikipedia.org/wiki/Serial_comma) -- the one just before the "and" -- in lists.  
+    * They separate list elements: "butter, flour, and milk"  Hackaday style is to use the [serial comma](https://en.wikipedia.org/wiki/Serial_comma) -- the one just before the "and" -- in lists.  
 
-** They offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
+    * They offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
 
 * Parentheses.  Ugh.  When you have something to say that doesn't fit in the flow of the sentence, it's best to split your sentence in two and re-write the parenthetical part so that it doesn't interfere with the flow anymore.  Entire parenthetical sentences, that don't fit in the flow of the paragraph, are marginally acceptable, but please exercise restraint.  The logical flow of the article is paramount.  Parentheses are a crutch.
 
@@ -37,11 +37,11 @@
 
 * Blog-post Images:
 
-** The "featured" image at the top of a single-post page is ideally 800 px wide and 350 px tall.  Taller images (up to 450?) work when necessary for the image.
+    * The "featured" image at the top of a single-post page is ideally 800 px wide and 350 px tall.  Taller images (up to 450?) work when necessary for the image.
 
-** The "thumbnail" image (600 px X 600 px) goes on the front page of Hackaday and is sent out over social media magics.  It's very important that it's graphic and catchy.
+    * The "thumbnail" image (600 px X 600 px) goes on the front page of Hackaday and is sent out over social media magics.  It's very important that it's graphic and catchy.
 
-** The "blogview" image is 800 px X 250 px.  No exceptions.  It's automatically derived from the center slice of the featured image, so if that's got some padding on the top and bottom, you don't have to provide one.  If someone's head appears at the top of the featured image, however, they will be decapitated in the blogview.  Ouch!  Here, you'll want to crop one specifically.
+    * The "blogview" image is 800 px X 250 px.  No exceptions.  It's automatically derived from the center slice of the featured image, so if that's got some padding on the top and bottom, you don't have to provide one.  If someone's head appears at the top of the featured image, however, they will be decapitated in the blogview.  Ouch!  Here, you'll want to crop one specifically.
 
 
 
@@ -49,9 +49,9 @@
 
 * Spell out numbers less than or equal to twenty.  "Seventeen frogs", and not "17 frogs".  
 
-** Oh the exceptions! 
+    * Oh the exceptions! 
 
-** In "he took between 17 and 25 hours", it would look silly if you spelled out 17.  
+    * In "he took between 17 and 25 hours", it would look silly if you spelled out 17.  
 
 ## Units:
 
