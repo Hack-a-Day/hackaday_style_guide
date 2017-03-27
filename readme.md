@@ -11,7 +11,10 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
     * We make an exception for long-form or personal opinion pieces, your own experience that's not likely to be shared across HaD, and rants.  This can be a fine line sometimes.  "When I got malaria in the jungle." vs. "We love open-source projects." is pretty clear.
     * Err on the side of "we" for blog posts.  
 
+* We use one space after a period, not two.  
+
 * Hacker names, pseudonyms, and handles are enclosed in square brackets.  This was originally intended to disambiguate "that nerdy hacker" from "[that nerdy hacker]".  It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
+
 
 * The first link in a blog post goes to the referenced web resource.  This can make writing an introductory paragraph contrived sometimes.  Sorry about that, but our readers expect to be able to click through on the top link.
 
