@@ -19,12 +19,10 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 
 * The Wikimedia copyright notice is unnecessarily verbose.  We use <pre>"Image title" by <a href="http://mediapage.Url">Creator</a> CC-BY-SA 3.0</pre>
 
-* Attribution: We do it whenever possible.  If you read about something  (more here)
-
+* Attribution: We do it whenever possible.  If you read about it somewhere, include: (Is this already in Quick-start Guide?) 
 * Tipsters: We thank them.   (More here)
 
-
-* References to any Web resource is included in the body text as an HTML link.  If you're making a reference to a printed book, best is usually to cite it in text: (See "Understanding Digital Signal Processing" by Richard G. Lyons).  If you have enough non-Web citations to warrant a bibliography, you can use a [1] notation.  Talk to an editor if you do this.
+* References to any Web resource is included in the body text as an HTML link.  If you're making a reference to a printed book, best is usually to cite it in text: (See _Understanding Digital Signal Processing_ by Richard G. Lyons).  If you have enough non-Web citations to warrant a bibliography, you can use a [1] notation.  Talk to an editor if you do this.
 
 ## Hackaday Specific Layout Trivia
 
