@@ -15,14 +15,14 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 
 * Hacker names, pseudonyms, and handles are enclosed in square brackets.  This was originally intended to disambiguate "that nerdy hacker" from "[that nerdy hacker]".  It's not necessary for figures of historical importance, so you don't have to write [Albert Einstein], but you may.
 
-
 * The first link in a blog post goes to the referenced web resource.  This can make writing an introductory paragraph contrived sometimes.  Sorry about that, but our readers expect to be able to click through on the top link.
+
+* The Wikimedia copyright notice is unnecessarily verbose.  We use <pre>Image title via <a href="http://mediapage.Url">Creator</a> CC-BY-SA 3.0</pre>
 
 * Attribution: We do it whenever possible.  If you read about something  (more here)
 
 * Tipsters: We thank them.   (More here)
 
-* Copyright notices. (More here)
 
 * References to any Web resource is included in the body text as an HTML link.  If you're making a reference to a printed book, best is usually to cite it in text: (See "Understanding Digital Signal Processing" by Richard G. Lyons).  If you have enough non-Web citations to warrant a bibliography, you can use a [1] notation.  Talk to an editor if you do this.
 
