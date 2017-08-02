@@ -141,6 +141,7 @@ Here is a list of proper nouns / names that appear often, and this is how they'r
 * Internet
 * the Web
 * Ethernet
+* KiCad
 * Bluetooth
 * WiFi
 * eBay 
