@@ -165,6 +165,15 @@ Acronyms that you'd think are capitalized, but have fallen out of fashion:
 
 Maybe this should be spun off into its own page.  
 
+## Graphics and Other Visual Tricks
+
+### Graphic Quotes
+
+It is always best to use great photos in the body of an article. When this is not possible, or when a quote is just too good, you may opt to use a graphic quote. Currently we format these manually. Make sure the quote is still in the body of the text so it is crawled by search engines (where text in a graphic will not be). This method is a way to break up a block of text and draw attention to the quote.
+
+* [Article example with visual quote](http://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/) (scroll to bottom).
+* [Gimp XCF file](hackaday-quote-in-body-tesla.xcf). BG color: 1a1a1a  FG color: f3bf10
+* Site hosting [Century Schoolbook L Bold Italic TTF](https://ufonts.com/fonts/century-schoolbook-l-bold-italic.html)
 
 ## Thanks
 
