@@ -121,10 +121,17 @@ Define an acronym on first use.  "Did you know that using a real-time operating 
 
 * Exceptions are widely-known acronyms, where you'd just feel silly writing them out: "16 GB RAM", for instance.  This is a moving target.  This section needs fleshing out, or maybe just a list of the acronyms that _don't_ need spelling out.
 
+## Sources in Non-English Languages
+
+If you reference a page that is in a non-english language, please use the original link, but add a translate.google.com link to "(translated)" right after this. This way the source article gets traffic, and readers who want to translate into a language other than English have an easy path to do so.
+
+* Paste the original language link into [translate.google.com](https://translate.google.com/), hit enter, copy the URL of the page that loads and use that. Here's an example:
+
+> There are more detailed build instructions on [Nuremberg's FabLab page](http://wiki.fablab-nuernberg.de/w/Ding:Plotclock) ([translated](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwiki.fablab-nuernberg.de%2Fw%2FDing%3APlotclock))
+
 ## Miscellanea 
 
 * That / which: "That" is for details that are essential to the meaning of the sentence, and "which" is for additional info.  "To defuse the bomb, cut the wire that is flagged with tape."  "To defuse the bomb, which was planted by [Evil McNasty], our hero cut the wire."  You need to know which wire, but you don't need to know who planted the bomb, at least for the meaning of the sentence. 
-
 
 
 ## Capitalization:
