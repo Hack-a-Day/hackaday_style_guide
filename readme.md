@@ -187,6 +187,7 @@ It is always best to use great photos in the body of an article. When this is no
 With our dark background theme, white schematics and diagrams with black text are rather jarring to the eye. It is possible to use the yellow/black/white motif to [greatly improve the look of schematics and diagrams](https://hackadaycom.files.wordpress.com/2018/06/renesas-df2117vbg20v-block-diagram.png).
 
 * Mike put together a (poor recording quality) [video walkthrough](https://youtu.be/j6WkE8ZFqJw) of how to take a black/white diagram and apply these color styles using Gimp"
+    * Please note the error in this video. Normally we prefer the line drawings to be yellow and the text to be white but it is reversed in this video. Otherwise the process is the same.
 * Colors used: BG color: #1a1a1a  FG color: #f3bf10 Font: #ffffff 
 
 ### Table Styling
