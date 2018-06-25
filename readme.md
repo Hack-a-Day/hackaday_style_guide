@@ -182,6 +182,21 @@ It is always best to use great photos in the body of an article. When this is no
 * [Gimp XCF file](hackaday-quote-in-body-tesla.xcf). BG color: 1a1a1a  FG color: f3bf10
 * Site hosting [Century Schoolbook L Bold Italic TTF](https://ufonts.com/fonts/century-schoolbook-l-bold-italic.html)
 
+### Schematic and Diagram Styling
+
+With our dark background theme, white schematics and diagrams with black text are rather jarring to the eye. It is possible to use the yellow/black/white motif to [greatly improve the look of schematics and diagrams](https://hackadaycom.files.wordpress.com/2018/06/renesas-df2117vbg20v-block-diagram.png).
+
+* Mike put together a (poor recording quality) walkthrough of how to take a black/white diagram and apply these color styles using Gimp"
+* Colors used: BG color: #1a1a1a  FG color: #f3bf10 Font: #ffffff 
+
+### Table Styling
+
+Tables are for the most part unstyled in the default Hackaday theme. However, there is a simple CSS table style set that can be used by added an id to the opening table tag:
+
+`<table id="hackadayTable">`
+
+The resulting table will be styled with the yellow/black/white motif. Here's [an example before and after table styling](hackaday-table-styling-before_after.jpg).
+
 ## Thanks
 
 Thanks to everyone who's helped make this style guide complete and useful.  
