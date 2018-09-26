@@ -38,17 +38,19 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 
 * Sometimes, writers like to tell a narrative in the present tense.  If you try to do this, stay consistent.  
 
-## Genders
+## "He", "She", or "They"? 
 
-* There is no singular, gender-neutral pronoun in English that refers to people.  This sucks.  
-    * If you can find out the hacker's preferred gender, don't be afraid to use it.
-    * "He or she" is acceptable, but sounds stilted. 
-    * Using the hacker's name can help: "[Pat] flashed the firmware".
-    * If you're really stumped, you can re-construct the sentence in the passive voice.  "The firmware was flashed."  It's not as nice as the active version, but it's probably the lesser of two evils.  
-    * "They" is plural.  (Anyone want to talk about this? I'd be stoked to change my mind. It would be handy, because the hacker's gender is often irrelevant, and it's just a hassle.)
+* We're sticking with the majority of journalistic style guides and using "he" or "she" to refer to a specific individual.  A reader who sees "They used a metric ton of Arduinos" first thinks of a group of people.  Our primary goal is to not confuse the reader when it's a single-person project. In that case, use "he" or "she" as appropriate.
 
-* Go with the gender that the hacker identifies him or herself as.  He or she gets to choose, not you.  
+Note, however, that "they" is acceptable when referring a generic individual.  "[JoeHacker] said he could do it with a 555 timer and dog hair" but "Everyone says that they would prefer a Raspberry Pi." 
 
+If you know the hacker's preferred pronoun, and it's not "he" or "she", feel free to use it if it doesn't confuse.  If it does get confusing, you'll have to get creative.
+
+General guidelines:
+    * "He or she" is acceptable, but sounds stilted. This is not a great solution.
+    * Using the hacker's name can help you dodge the issue: "[SupaNerd] flashed the firmware".
+    * If you're really stumped, you can re-construct the sentence in the passive voice.  "The firmware was flashed."  It's not as nice to an American ear as the active version, but it's probably the lesser of two evils when you find yourself repeating the person's name over and over.  
+ 
 ## Punctuation, and its (Ab)uses
 
 * Commas come in the sentence where you would take a breath or pause for a beat. This does not mean that every pause requires a comma.
