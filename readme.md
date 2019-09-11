@@ -176,6 +176,19 @@ Maybe this should be spun off into its own page.
 
 ## Graphics and Other Visual Tricks
 
+### Blockquotes with Attribution
+
+Our stylesheet already makes blockquote tags look great. But you can also style an attribution to the person who said the quote as follows:
+
+```
+<blockquote>MUDPIE represents an attempt to keep everyone up to date on the development of time-shared computing in museums and universities engaged in systematic research. Several individuals receiving this first copy had written asking the same questions, and this is a quick way of answering them.
+
+There was a tremendous temptation to set it up so that it could be received only through the teletype and computer — but that proved to be a little too advanced for the present!
+<span style="float: right;"><span style="color: #f3bf0e;">--</span>Mark Twain</span></blockquote>
+```
+
+Pro tip: blockquotes can also be constrained and floated left or right: `<blockquote style="float: left; width: 50%;">`
+
 ### Graphic Quotes
 
 It is always best to use great photos in the body of an article. When this is not possible, or when a quote is just too good, you may opt to use a graphic quote. Currently we format these manually. Make sure the quote is still in the body of the text so it is crawled by search engines (where text in a graphic will not be). This method is a way to break up a block of text and draw attention to the quote.
