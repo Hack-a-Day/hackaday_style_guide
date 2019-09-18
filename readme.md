@@ -213,6 +213,16 @@ Tables are for the most part unstyled in the default Hackaday theme. However, th
 
 The resulting table will be styled with the yellow/black/white motif. Here's [an example before and after table styling](hackaday-table-styling-before_after.jpg).
 
+### Errata and Other Frustrating Things
+
+## Wordpress Photo Galleries workaround
+
+The Wordpress Jetpack plugin provides some nice-looking photo gallery options, but it has a bug in Photon library that powers it regarding rotated images. Sometimes when you upload several images to be used in a "tiled mosaic" or other Photon-powered gallery, the aspect ratio will be confused causing stretched images.
+
+It appears behavior is caused when uploading an image whose EXIF tag has rotation set, but image is actual 90 degrees off from that. A workaround is to rotate the image rather than relying on the EXIF rotation tag. This can be done in an image editor, but those with Linux may appreciate this command which will read the EXIF tag and automatically rotate the image file to match. Once done, this can be uploaded and used as part of a gallery without encountering the aspect ratio problem:
+
+`renrot --no-rename --no-mtime image-to-be-rotated.jpg`
+
 ## Thanks
 
 Thanks to everyone who's helped make this style guide complete and useful.  
