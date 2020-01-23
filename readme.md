@@ -194,7 +194,7 @@ Pro tip: blockquotes can also be constrained and floated left or right: `<blockq
 It is always best to use great photos in the body of an article. When this is not possible, or when a quote is just too good, you may opt to use a graphic quote. Currently we format these manually. Make sure the quote is still in the body of the text so it is crawled by search engines (where text in a graphic will not be). This method is a way to break up a block of text and draw attention to the quote.
 
 * [Article example with visual quote](http://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/) (scroll to bottom).
-* [Gimp XCF file](hackaday-quote-in-body-tesla.xcf). BG color: 1a1a1a  FG color: f3bf10
+* [Gimp XCF file](files/hackaday-quote-in-body-tesla.xcf). BG color: 1a1a1a  FG color: f3bf10
 * Site hosting [Century Schoolbook L Bold Italic TTF](https://ufonts.com/fonts/century-schoolbook-l-bold-italic.html)
 
 ### Schematic and Diagram Styling
@@ -211,7 +211,19 @@ Tables are for the most part unstyled in the default Hackaday theme. However, th
 
 `<table id="hackadayTable">`
 
-The resulting table will be styled with the yellow/black/white motif. Here's [an example before and after table styling](hackaday-table-styling-before_after.jpg).
+The resulting table will be styled with the yellow/black/white motif. Here's [an example before and after table styling](files/hackaday-table-styling-before_after.jpg).
+
+### Formulas using LaTeX
+
+Wordpress includes the ability to render LaTeX formulas. The formula should be pasted in the graphic editor. Here is an example of the theory of general relativity:
+
+```$latex \bf G_{\mu \nu} = 8\pi G(T_{\mu \nu } + \rho_{\Lambda}g_{\mu \nu})&bg=1a1a1a&fg=f3bf10&s=3$```
+
+![LaTex formuala rendered as image](files/latex-relativity.png)
+
+* LaTeX formulas should begin `$latex` and end with `$`. We also use styling code like bold `\bf` and color/size directives `&bg=1a1a1a&fg=f3bf10&s=3`.
+
+* It is easier to build your LaTeX in a live editor like [CodeCogs](https://www.codecogs.com/latex/eqneditor.php) (hover on each symbol menu to expand options) or [HostMath](https://www.hostmath.com/) before pasting it into Wordpress.
 
 ### Errata and Other Frustrating Things
 
