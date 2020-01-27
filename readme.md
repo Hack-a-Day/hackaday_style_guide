@@ -225,6 +225,13 @@ Wordpress includes the ability to render LaTeX formulas. The formula should be p
 
 * It is easier to build your LaTeX in a live editor like [CodeCogs](https://www.codecogs.com/latex/eqneditor.php) (hover on each symbol menu to expand options) or [HostMath](https://www.hostmath.com/) before pasting it into Wordpress.
 
+### Multi-column lists
+
+There is a CSS element that lets you specify 2 or 3 columns in lists that will show only on wider screens:
+
+* `<ul class="responsive-column-2"></ul>`
+* `<ul class="responsive-column-3"></ul>`
+
 ### Errata and Other Frustrating Things
 
 ## Wordpress Photo Galleries workaround
