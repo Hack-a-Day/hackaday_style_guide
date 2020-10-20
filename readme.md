@@ -176,6 +176,10 @@ Maybe this should be spun off into its own page.
 
 ## Graphics and Other Visual Tricks
 
+**Important**: If you are using Gimp to generate images, make sure to deselect "Save Color Profile" when saving the image. Jetpack Photon may change the colors in the image when resizing it if this meta is attached to the file. Here's a screenshot from Gimp 2.10.18:
+
+![Save dialog in Gimp image editor](files/gimp-color-profile-metadata.png)
+
 ### Blockquotes with Attribution
 
 Our stylesheet already makes blockquote tags look great. But you can also style an attribution to the person who said the quote as follows:
