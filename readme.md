@@ -217,6 +217,12 @@ Tables are for the most part unstyled in the default Hackaday theme. However, th
 
 The resulting table will be styled with the yellow/black/white motif. Here's [an example before and after table styling](files/hackaday-table-styling-before_after.jpg).
 
+It's also advisable to wrap the table tags in a this div which will generate a horizontal scrollbar if the table is too wide (useful in mobile view):
+
+`<div style="overflow-x: auto; scrollbar-color: light;">`
+
+Note that scrollbar colors don't work in Firefox mobile.
+
 ### Formulas using LaTeX
 
 Wordpress includes the ability to render LaTeX formulas. The formula should be pasted in the graphic editor. Here is an example of the theory of general relativity:
