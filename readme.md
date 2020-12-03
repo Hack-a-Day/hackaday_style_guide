@@ -217,7 +217,7 @@ Tables are for the most part unstyled in the default Hackaday theme. However, th
 
 The resulting table will be styled with the yellow/black/white motif. Be sure to use `<th>` instead of `<td>` in the first row to get the yellow color.
 
-![an example before and after table styling](files/hackaday-table-styling-before_after.jpg).
+![an example before and after table styling](files/hackaday-table-styling-before_after.jpg)
 
 It's also advisable to wrap the table tags in a this div which will generate a horizontal scrollbar if the table is too wide (useful in mobile view):
 
