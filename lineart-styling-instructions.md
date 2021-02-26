@@ -7,13 +7,13 @@ Here is the workflow Mike uses in Gimp to go from black and white to Hackaday th
 1. Get the best quality source image you can
 1. Colors-->Color to Alpha to make the white background transparent
 1. Duplicate the layer.
-1. Manually select text and delete it from one of the layers
+1. Manually select the text that you'd like to appear white and delete it from one of the layers
 1. On the layer from which you just removed text, use the "Select by color" tool to select the transparent background.
 1. Select-->Invert to select the lineart that is left over
 1. Now switch to the other layer and press delete. This will remove everything that is not text from this layer (this becomes our white text layer)
 1. Switch back to the other layer; Colors-->Colorify (on Gimp 2.10 this menu item is missing, type `/colorify` and press enter to open the dialog)
 1. Click on "Custom color:" and enter #F3BF10
-1. Set the foreground color to #1A1A1A, make a new layer using that foreground color and send it to the bottom of the layer list
+1. Set the background color to #1A1A1A, make a new layer using that background color and send it to the bottom of the layer list
 1. Export the image. (If exporting as a jpg file, make sure to deselect "Save color profile" as it causes a bug in Wordpress Jetpack that changes the background colors if that data is present)
 
 ## Protips
