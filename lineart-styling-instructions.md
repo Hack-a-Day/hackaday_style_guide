@@ -6,6 +6,7 @@ Here is the workflow Mike uses in Gimp to go from black and white to Hackaday th
 
 1. Get the best quality source image you can
 1. Colors-->Color to Alpha to make the white background transparent
+1. Colors-->Invert to turn all the black to white.
 1. Duplicate the layer.
 1. Manually select the text that you'd like to appear white and delete it from one of the layers
 1. On the layer from which you just removed text, use the "Select by color" tool to select the transparent background.
