@@ -212,19 +212,25 @@ With our dark background theme, white schematics and diagrams with black text ar
 
 ### Table Styling
 
-Tables are for the most part unstyled in the default Hackaday theme. However, there is a simple CSS table style set that can be used by added an id to the opening table tag:
+Tables are for the most part unstyled in the default Hackaday theme. However, there is a simple CSS table style set that can be used by wrapping your table in a `<div>` with the proper class. Styling is handled this way because it facilitates horizontal scrolling of tables when the screen is too narrow:
 
-`<table id="hackadayTable">`
+``` html
+<div class="hackaday-table">
+    <!-- table code goes here -->
+</div>
+```
 
-The resulting table will be styled with the yellow/black/white motif. Be sure to use `<th>` instead of `<td>` in the first row to get the yellow color.
+There are three classes available that offer full-width, and 50% width floated left or right:
+
+* hackaday-table
+* hackaday-table-left
+* hackaday-table-right
+
+The resulting table will be styled with the yellow/black/white motif. Be sure to use `<th>` instead of `<td>` wherever you want to have the yellow color.
+
+You can [easily generate tables using this web tool](https://www.tablesgenerator.com/html_tables) (protip: make sure the check the "Do not generate CSS" box).
 
 ![an example before and after table styling](files/hackaday-table-styling-before_after.jpg)
-
-It's also advisable to wrap the table tags in a this div which will generate a horizontal scrollbar if the table is too wide (useful in mobile view):
-
-`<div style="overflow-x: auto; scrollbar-color: light;">`
-
-Note that scrollbar colors don't work in Firefox mobile.
 
 ### Formulas using LaTeX
 
