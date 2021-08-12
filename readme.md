@@ -188,8 +188,9 @@ Our stylesheet already makes blockquote tags look great. But you can also style 
 <blockquote>MUDPIE represents an attempt to keep everyone up to date on the development of time-shared computing in museums and universities engaged in systematic research. Several individuals receiving this first copy had written asking the same questions, and this is a quick way of answering them.
 
 There was a tremendous temptation to set it up so that it could be received only through the teletype and computer — but that proved to be a little too advanced for the present!
-<span style="float: right;"><span style="color: #f3bf0e;">--</span>Mark Twain</span></blockquote>
+<span class="blockquote-attribution">Mark Twain</span></blockquote>
 ```
+![Blockquote with an attribution](files/blockquote_attribution.png)
 
 Pro tip: blockquotes can also be constrained and floated left or right: `<blockquote style="float: left; width: 50%;">`
 
