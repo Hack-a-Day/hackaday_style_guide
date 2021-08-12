@@ -192,7 +192,7 @@ There was a tremendous temptation to set it up so that it could be received only
 ```
 ![Blockquote with an attribution](files/blockquote_attribution.png)
 
-Pro tip: blockquotes can also be constrained and floated left or right: `<blockquote style="float: left; width: 50%;">`
+blockquotes can also be constrained to 50% and floated left or right by adding the class `blockquote-right` or `blockquote-left`. Here's an example: `<blockquote class="blockquote-right">`. This will affect desktop view but in mobile view the blockquote will be full width. This styling can be automatically added in the visual editor by using the "formats" dropdown menu.
 
 ### Graphic Quotes
 
