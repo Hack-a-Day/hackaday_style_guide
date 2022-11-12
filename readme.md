@@ -17,7 +17,7 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 
 * The first link in a blog post goes to the referenced web resource.  This can make writing an introductory paragraph contrived sometimes.  Sorry about that, but our readers expect to be able to click through on the top link.
 
-* The Wikimedia copyright notice is unnecessarily verbose.  We use <pre>"Image title" by <a href="http://mediapage.Url">Creator</a></pre> if the link is to a person's webpage or <pre>"<a href="http://mediapage.Url">Image Title</a></pre>" by Creator if not. 
+* The Wikimedia copyright notice is unnecessarily verbose.  We use <pre>"Image title" by <a href="http://mediapage.Url">Creator</a></pre> if the link is to a person's webpage or <pre>"<a href="http://mediapage.Url">Image Title</a>" by Creator</pre> if not. 
 
 * Attribution: We do it whenever possible.  If you read about it in a third place, use a "via" link.
 
