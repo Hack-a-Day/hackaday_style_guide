@@ -163,6 +163,7 @@ Here is a list of proper nouns / names that appear often, and this is how they'r
 * GCC 
 * Arduino
 * BlackBerry
+* Game Boy
 
 Acronyms that you'd think are capitalized, but have fallen out of fashion:
 
