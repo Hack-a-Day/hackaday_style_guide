@@ -54,7 +54,7 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 * Commas come in the sentence where you would take a breath or pause for a beat. This does not mean that every pause requires a comma.
 
     * Commas separate independent clauses: "She is smart, and she wields a mean soldering iron." 
-    * Commas don't separate two actions that occur in sequence: "She finished her tee and left."
+    * Commas don't separate two actions that occur in sequence: "She finished her tea and left."
     * Commas separate list elements: "sex, drugs, and Arduinos".  
     * Hackaday style is to use the [serial comma](https://en.wikipedia.org/wiki/Serial_comma) -- the one just before the "and" -- in lists.  The best justification I've ever seen for this is the sentence "I love my parents, Lady Gaga and Humpty Dumpty".  
     * Commas offset parenthetical elements in a sentence: "[john doe], who we've featured before, is an anonymous hacker."
