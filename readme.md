@@ -29,7 +29,7 @@ This style guide is dedicated to the minutiae.  Is it "gcode" or "G-code"?  One 
 
 * Never use two headings in a row -- it looks bad with our style. Similarly, don't start off a piece with a heading. Come up with an introductory paragraph to lead off the new section.
 
-* Don't tell the reader where the image is ("as you see in the figure to the left") because editors often move images, and they may move around on their own in a (future) mobile-first Web design.  You _can_ presume that the reader can see the image, though, and you can refer to it. 
+* Don't tell the reader where the image is ("as you see in the figure to the left") because this is a webpage, and images may move around on their own across mobile/desktop layouts.  You _can_ presume that the reader can see the image, though, and you can refer to it. 
 
 ## Tenses and Voices
 
